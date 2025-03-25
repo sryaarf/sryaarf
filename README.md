@@ -1,4 +1,4 @@
-### **BHIZUSRYAAAJYAQIU**
+### **DRATHAIVEHZUURYAAAJYAQIUUU**
 👋 Welcome to My GitHub Profile  
 
 ## About Me  
@@ -25,6 +25,6 @@ Creating An 3d Model Of Comercial Ship With Goffy Style
 
 ## Let's Connect  
 Feel free to reach out and connect with me:  
-- **GitHub**: [bhizusryaaajyaqiu](https://github.com/bhizusryaaajyaqiu)
+- **GitHub**: [bhizusryaaajyaqiu](https://github.com/drathaivehzuuryaaajyaqiuuu)
 
 ---
