@@ -11,7 +11,7 @@ Hello, I'm **bhizusryaaajyaqiu**, a dedicated enthusiast in the world of technol
 
 ## Skills & Tools  
 Here are some of the technologies and tools I work with:  
-- **Languages**: `Java, Json, HTML, and Github.md`
+- **Languages**: `Java, Json, HTML, and Markdown(md)`
 - **Frameworks & Libraries**: `You Can See My Repository On My profile Below`
 - **Tools**:`Vs Code [Desktop], Code Editor [Mobile], Blockbench [Mobile & desktop, Reconn 4d [Mobile Still Beta test], Prisma 3D [Mobile], Photopea [Website Based], Alight Motion [Mobile]`
 
