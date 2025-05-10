@@ -7,7 +7,7 @@ Eksperimen dengan kode, grafis, dan dunia fiksi.
 
 ## ✨ Fokus
 
-- Modding & Java Coding  
+- Modding With Java Or Json language
 - 3D & UI Design (Blockbench, Prisma 3D)  
 - Web Dev ringan & Eksperimen visual
 
@@ -15,9 +15,7 @@ Eksperimen dengan kode, grafis, dan dunia fiksi.
 
 ## 🚧 Proyek Terbaru
 
-- **Mindustry Mod**  
-- **Srya Verikava Sites**  
-- **ImgThemerHost**
+- **Srya Verikava Sites**
 
 ---
 
